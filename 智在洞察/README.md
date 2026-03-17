@@ -1,1 +1,24 @@
-IyDmmbrlnKjmtJ7lr58KCioq5pm66IO95ZWG5py65rSe5a+f5bmz5Y+wKioKCiMjIOmhueebrueugOS7iwoK5pm65Zyo5rSe5a+f5piv5LiA5qy+6Z2i5ZCR6L+Q6JCl5ZWG5pS/5LyB6YOo6Zeo55qE5L+h5oGv5YiG5p6Q5Lqn5ZOB77yM5Li75Yqo54is5Y+W5LiT6aG55YC644CB5Lik5paw5pS/562W562J6KGM5Lia6LWE6K6v77yM57uT5ZCI55yB5YaF6L+Q6JCl5ZWG6aG555uu566h55CG6LWE6K6v6L+b6KGM5ZWG5py65YiG5p6Q77yM5o2V5o2J5ZWG5py65bm25o6o6YCB57uZ55So5oi344CCCgojIyDmoLjlv4Plip/og70KCi0g5LiT6aG55YC65L+h5oGv54is5Y+W5LiO5YiG5p6QCi0g5pS/562W5paH5Lu26Ieq5Yqo6L+96LiqCi0g5ZWG5py65pm66IO95Yy56YWNCi0g5aSa5rig6YGT5o6o6YCB6YCa55+lCi0g5L2c5oiYU09Q5oyH5a+8CgojIyDmlofmoaMKCi0gW+iwg+eglOaKpeWRil0oLi9kb2NzL+iwg+eglOaKpeWRii5tZCkKLSBb5Yqf6IO95riF5Y2VXSguL2RvY3Mv5Yqf6IO95riF5Y2VLm1kKQoKLS0tCgoq5Yib5bu65pel5pyfOiAyMDI25bm0M+aciDE35pelKgo=
+# 智在洞察
+
+**智能商机洞察平台**
+
+## 项目简介
+
+智在洞察是一款面向运营商政企部门的信息分析产品，主动爬取专项债、两新政策等行业资讯，结合省内运营商项目管理资讯进行商机分析，捕捉商机并推送给用户。
+
+## 核心功能
+
+- 专项债信息爬取与分析
+- 政策文件自动追踪
+- 商机智能匹配
+- 多渠道推送通知
+- 作战SOP指导
+
+## 文档
+
+- [调研报告](./docs/调研报告.md)
+- [功能清单](./docs/功能清单.md)
+
+---
+
+*创建日期: 2026年3月17日*
